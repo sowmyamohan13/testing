@@ -6,4 +6,4 @@ print("Testing again")
 
 print("Committed from GitHub")
 
-print("once again from R srudio")
+print("once again from R studio")
